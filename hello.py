@@ -4,3 +4,4 @@ rayon = 4
 print(rayon*rayon*math.pi)
 #TODO Ajoutez une ligne qui affichera votre nom et prénom à la fin
 print("Simon-Alexis Dubord")
+print("TEST")
